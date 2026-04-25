@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "GrayscaleSMP.aternos.me:47592",
+    "port": 47592,
     "version": "",
     "try-creative": false
   },
